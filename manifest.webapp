@@ -1,0 +1,17 @@
+{
+  "version": "1.1",
+  "name": "Browser",
+  "description": "test browser app",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Brian R. Bondy",
+    "url": "http://www.brianbondy.com"
+  },
+  "default_locale": "en",
+  "type": "privileged",
+  "fullscreen": "true",
+  "permissions": {
+    "browser": {},
+    "embed-apps": {}
+  }
+}
